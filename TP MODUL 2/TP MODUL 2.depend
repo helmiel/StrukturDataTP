@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1695377169 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/main.cpp
+	<iostream>
+
+1695378653 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/OperasiMatematika.cpp
+	<iostream>
+
+1695378819 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/InputOutput.cpp
+	<iostream>
+
+1695379049 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/OperasiPerbandingan.cpp
+	<iostream>
+
+1695379798 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/OperasiLogika.cpp
+	<iostream>
+
+1695387977 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/percabangan.cpp
+	<iostream>
+
+1695390125 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/Perulangan.cpp
+	<iostream>
+
+1695390434 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/perulanganWhile.cpp
+	<iostream>
+
+1695391093 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 2/fungsi.cpp
+	<iostream>
+

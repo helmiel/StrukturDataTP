@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696601328 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 4/tp4/list.cpp
+	<iostream>
+	"list.h"
+
+1696600945 /Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 4/tp4/list.h
+	<iostream>
+
+1696596377 source:/Users/mac/Documents/COOLYEAH/KULIAH SEMESTER 3/Struktur Data/Praktikum/TP MODUL 4/tp4/main.cpp
+	<iostream>
+	"list.h"
+
