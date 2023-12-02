@@ -34,4 +34,6 @@ int main()
     showJadwal_1301223338(L);
 
     cout << boolalpha << searchJ_1301223338(L, "surabaya", "malang", "9-Desember-2022") << endl;
+
+    //Helmi Efendi Lubis
 }
