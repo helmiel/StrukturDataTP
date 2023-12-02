@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701534451 source:e:\kuliah semester 3\std\struktur-data\tp modul 12\tpmod12\main.cpp
+	<iostream>
+	"flight.h"
+
+1701532195 e:\kuliah semester 3\std\struktur-data\tp modul 12\tpmod12\flight.h
+	<iostream>
+
+1701533708 source:e:\kuliah semester 3\std\struktur-data\tp modul 12\tpmod12\flight.cpp
+	"flight.h"
+
