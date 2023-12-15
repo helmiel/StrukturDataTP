@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702651305 source:e:\kuliah semester 3\std\praktikum\tp14\main.cpp
+	<iostream>
+	"header.h"
+
+1702651289 source:e:\kuliah semester 3\std\praktikum\tp14\source.cpp
+	"header.h"
+
+1702651240 e:\kuliah semester 3\std\praktikum\tp14\header.h
+	<iostream>
+
