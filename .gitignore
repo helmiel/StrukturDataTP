@@ -1,5 +1,8 @@
 *.pdf
 *.docx
-*.DS_store
+*.DS_Store
 *.o
-*.vscode
+vscode*
+*.env
+obj*
+bin*
